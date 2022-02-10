@@ -13,3 +13,5 @@ If you're aware of any climate related projects or programs that need help with 
 And me...
 
 I work as a **DevOps** and **software engineer**. I have 20 years experience in systems design, development, continuous integration and deployment, cloud transformation, automation, and infrastructure as code. I've worked in Australia, US, Spain and UK, in small and large organisations, startups and established companies, health, insurance, aviation, finance.
+
+I maintain a [digital garden](https://joelhooks.com/digital-garden) over at [https://awol.ski](https://joelhooks.com/digital-garden) (about as haphazardly as I do my physical garden).
